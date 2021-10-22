@@ -1,1 +1,6 @@
 Este archivo servirá como ejemplo para la clase de ramas.
+
+|Muestra | Tensión [V] | Corriente [A] |
+|0| 1| 1|
+|1|2|3|
+|2|3|4|
